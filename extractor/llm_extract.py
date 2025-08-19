@@ -17,6 +17,7 @@ load_dotenv()
 
 # Initialize OpenRouter client
 api_key = os.getenv("OPENROUTER_API_KEY")
+print("Using API key:", api_key)    # Debug print (optional)
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
