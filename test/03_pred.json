@@ -1,0 +1,10 @@
+{
+  "doc_type": "unknown",
+  "fields": [],
+  "overall_confidence": 0.0,
+  "qa": {
+    "passed_rules": [],
+    "failed_rules": [],
+    "notes": "unknown doc_type"
+  }
+}

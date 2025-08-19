@@ -1,0 +1,12 @@
+streamlit>=1.25 
+openai>=0.27.0 
+pytesseract 
+pdf2image 
+pdfplumber 
+Pillow 
+pymupdf 
+pydantic 
+python-dotenv 
+numpy 
+pandas 
+tqdm
